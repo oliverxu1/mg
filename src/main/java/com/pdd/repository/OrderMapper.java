@@ -1,4 +1,4 @@
-package com.pdd.mapper;
+package com.pdd.repository;
 
 import com.pdd.model.Order;
 import com.pdd.model.OrderExample;
